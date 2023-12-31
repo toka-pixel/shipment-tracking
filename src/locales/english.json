@@ -1,0 +1,24 @@
+{
+  "home.lang": "عربى",
+  "home.signin": "Sign in ",
+  "home.tracking": " tracking",
+  "home.talk_to_sales": "talk to sales",
+  "home.prices": "prices",
+  "home.home": "home",
+
+  "home.delivery_time_within": "delivery time within",
+  "home.merchant_name": "merchant name",
+  "home.latest_update": "latest update",
+  "home.delivery_number": "delivery number",
+
+  "home.deliveryAddress": "Delivery Address",
+  "home.address": "Imbaba, Talaat Harb Street, Al-Ummal City, Prince Street",
+  "home.problem": "Is there a problem with your shipment?",
+  "home.reportProblem": "Report a problem",
+  "home.shipmentDetails": " Shipment Details",
+
+  "home.Details": "Details",
+  "home.Date": "Date",
+  "home.Time": "Time",
+  "home.Hub": "Branch"
+}

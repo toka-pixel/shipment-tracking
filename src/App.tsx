@@ -1,25 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from "react";
+import { Box } from "@mui/material";
+import Content from "./layout/Content";
+import { useTranslation } from "react-i18next";
+import NavBar from "./layout/navbar";
 
 function App() {
+  const { i18n } = useTranslation();
+
+  useEffect(() => {
+    document.body.style.direction = i18n.dir();
+  }, [i18n.dir()]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Box>
+      <NavBar />
+      <Content />
+    </Box>
   );
 }
 

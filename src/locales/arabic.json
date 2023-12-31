@@ -1,0 +1,22 @@
+{
+  "home.lang": "ENG",
+  "home.signin": "تسجيل الدخول",
+  "home.tracking": "تتبع شحنتك",
+  "home.talk_to_sales": "كلم المبيعات",
+  "home.prices": "الاسعار",
+  "home.home": "الرئيسيه",
+  "home.delivery_time_within": "موعد التسليم خلال ",
+  "home.merchant_name": "اسم التاجر",
+  "home.latest_update": "اخر تحديث",
+  "home.delivery_number": "رقم الشحنه",
+  "home.deliveryAddress": "عنوان التسليم",
+  "home.address": "امبابه شارع طلعت حرب مدينه العمال شارع البرنس",
+  "home.problem": "هل يوجد مشكله فى شحنتك",
+  "home.reportProblem": "إبلاغ عن مشكلة",
+  "home.shipmentDetails": "تفاصيل الشحنه",
+
+  "home.Details": "تفاصيل",
+  "home.Date": "الوقت",
+  "home.Time": "التاريخ",
+  "home.Hub": "الفرع"
+}
